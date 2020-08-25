@@ -387,6 +387,7 @@ color:white;
 	}
 
 	.poster {
+		visibility: hidden;
 		position: relative;
 		top: auto;
 		left: auto;
