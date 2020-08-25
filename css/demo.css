@@ -386,15 +386,6 @@ color:white;
 		padding-right: 3%;
 	}
 
-	.poster {
-		visibility: hidden;
-		position: relative;
-		top: auto;
-		left: auto;
-		display: block;
-		max-width: 60%;
-		max-height: 30vh;
-		margin: 0 0 0 40%;
-	}
+	
 }
 

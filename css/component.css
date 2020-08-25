@@ -439,6 +439,13 @@ html.js,
 	
 }
 
+@media only screen and (max-width: 768px) {
+  /* For mobile phones: */
+  [class*="poster"] {
+  	visibility: hidden;
+    width: 100%;
+  }
+}
 
 
 
