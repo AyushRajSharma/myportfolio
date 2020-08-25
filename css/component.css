@@ -416,6 +416,7 @@ html.js,
 	.info {
 		font-size: 0.85em;
 	}.poster {
+		visibility: hidden;
 		position: relative;
 		top: auto;
 		left: auto;
@@ -441,7 +442,7 @@ html.js,
 
 @media only screen and (max-width: 768px) {
   /* For mobile phones: */
-  [class*="poster"] {
+  .poster {
   	visibility: hidden;
     width: 100%;
   }
