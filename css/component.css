@@ -389,6 +389,8 @@ html.js,
 			pointer-events: auto;
 			background-height: 100%;
 	}
+	margin: 0 0 0 50%;
+	}
 
 	.js .pages-nav {
 		display: block;
@@ -417,6 +419,12 @@ html.js,
 		font-size: 0.85em;
 	}
 	.poster {
+		position: relative;
+		top: auto;
+		left: auto;
+		display: block;
+		max-width: 45%;
+		max-height: 35vh;
 		margin: 1em;
 	}
 
