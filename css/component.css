@@ -340,7 +340,7 @@ html.js,
 	.info {
 		max-width: 100%;
 	}
-	.poster {
+	.poster {visibility: hidden;
 		position: relative;
 		top: auto;
 		left: auto;
